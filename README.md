@@ -3,6 +3,7 @@ This project is all about digging into Blinkit’s open-source dataset to uncove
 
 # Main objective
 Break down Blinkit’s operational and business performance by:
+
 1.Importing and structuring the dataset in MySQL
 2.Running queries to analyse growth, efficiency, and customer behaviour
 3.Building interactive dashboards in Power BI to visualise trends and KPIs
