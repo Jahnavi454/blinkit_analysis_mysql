@@ -15,8 +15,8 @@ GitHub – version control + project documentation
 
 # Loading the database
 I imported the Blinkit dataset into MySQL and performed:
-Data cleaning
-Schema design
+** Data cleaning
+* Schema design
 Exploratory SQL queries
 KPI calculations
 This helped set a solid foundation before moving everything to Power BI.
