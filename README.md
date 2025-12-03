@@ -9,7 +9,7 @@ Break down Blinkit’s operational and business performance by:
 3.Building interactive dashboards in Power BI to visualise trends and KPIs
 
 # Tech Stack
-MySQL – for data cleaning, modeling, and analysis
+#* MySQL – for data cleaning, modeling, and analysis
 Power BI – for dashboards and visual storytelling
 GitHub – version control + project documentation
 
