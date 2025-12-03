@@ -1,4 +1,4 @@
-# blinkit_analysis_mysql
+# Blinkit_analysis_mysql
 This project is all about digging into Blinkit’s open-source dataset to uncover real business insights and key performance indicators (KPIs). I loaded the raw data into MySQL, cleaned it up, explored the relationships, and then used Power BI to build visuals that actually make sense for decision-making.
 
 # Main objective
@@ -21,7 +21,7 @@ I imported the Blinkit dataset into MySQL and performed:
   
 This helped set a solid foundation before moving everything to Power BI.
 
-# visualising the metrics
+# Visualising the metrics
 # Power BI Dashboard — Overview
 This dashboard pulls together all major Blinkit performance metrics in one place. It’s designed to be intuitive, filter-friendly, and focused on real business KPIs.
 
