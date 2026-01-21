@@ -4,7 +4,7 @@ This project delivers an end-to-end data analytics workflow using Blinkit’s op
 The goal was simple:
 Turn raw operational data into insights that support smarter business decisions.
 
-#Project Objectives
+# Project Objectives
 * Import, clean, and structure raw Blinkit data using MySQL
 * Perform Exploratory Data Analysis (EDA) using Python
 * Write optimized SQL queries to calculate business KPIs
@@ -26,7 +26,7 @@ Performed:
 Built SQL queries to compute:
 * Total & average sales
 * Category performance
-*Outlet efficiency metrics
+* Outlet efficiency metrics
 * Customer behaviour indicators
 
 This created a clean, analytics-ready dataset for downstream reporting.
