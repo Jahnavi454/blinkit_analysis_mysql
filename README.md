@@ -19,11 +19,15 @@ Turn raw operational data into insights that support smarter business decisions.
 
 # Data Loading & Preparation (MySQL)
 * Imported raw CSV data into MySQL
-  Performed:
+
+
+Performed:
 * Data cleaning (null handling, standardisation)
 * Schema normalization
 * Data validation checks
-  Built SQL queries to compute:
+
+  
+Built SQL queries to compute:
 * Total & average sales
 * Category performance
 * Outlet efficiency metrics
